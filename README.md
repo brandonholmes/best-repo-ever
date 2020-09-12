@@ -1,6 +1,6 @@
 # best-repo-ever
 Repo for Salesforce Trailhead -Updated 1943
 
-This is my readme changes for new-branch-1
+This is my change for the new-branch-2 branch.
 
-can you beat me?
+Not sure I understand!
